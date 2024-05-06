@@ -30,3 +30,4 @@
 - [freeCodeCamp](https://www.freecodecamp.org/): Nonprofit organization offering free coding tutorials and projects.
 
 Feel free to explore these resources for learning and reference in your software development journey!
+
